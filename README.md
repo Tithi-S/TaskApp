@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Created a Flutter app and integrated the following apis :
+###reqres.in
+Connect: /api/users?page=2
+And /api/users post route.
 
 A few resources to get you started if this is your first Flutter project:
 
